@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EraViewer", "EraViewer\EraViewer.csproj", "{EEC8B4B7-58CE-4596-992C-F816A2A06EDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEC8B4B7-58CE-4596-992C-F816A2A06EDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEC8B4B7-58CE-4596-992C-F816A2A06EDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEC8B4B7-58CE-4596-992C-F816A2A06EDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEC8B4B7-58CE-4596-992C-F816A2A06EDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7817DAD7-E461-4D9C-A4C7-A740D6A402FB}
+	EndGlobalSection
+EndGlobal
